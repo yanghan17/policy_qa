@@ -159,14 +159,14 @@ Q: Is wear and tear covered under the home contents policy?
 Wear and tear is NOT covered.
 
 The policy explicitly excludes loss or damage caused by Wear, Tear.
-[Doc: qbe_home_policy_wording_mil.pdf, §Section 1 > Exclusions > 1(c), p.9]
+[Doc: xxx_home_policy_wording_mil.pdf, §Section 1 > Exclusions > 1(c), p.9]
 
 Exception: if wear and tear directly causes another covered event such
 as fire or glass breakage, the resulting damage from that event IS covered.
-[Doc: qbe_home_policy_wording_mil.pdf, §Section 1 > Exclusions > 1(c), p.9]
+[Doc: xxx_home_policy_wording_mil.pdf, §Section 1 > Exclusions > 1(c), p.9]
 
 SOURCES:
-  • qbe_home_policy_wording_mil.pdf  §Section 1 > Exclusions  p.9  (similarity: 0.74)
-  • QM8698-1124_QBE_Contents_Insurance_PDS.pdf  §Exclusions  p.34  (similarity: 0.61)
+  • xxx_home_policy_wording_mil.pdf  §Section 1 > Exclusions  p.9  (similarity: 0.74)
+  • QM8698-1124_xxx_Contents_Insurance_PDS.pdf  §Exclusions  p.34  (similarity: 0.61)
 ```
 
