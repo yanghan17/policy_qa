@@ -1,0 +1,22 @@
+# Policy Q&A Bot — Python dependencies
+# Install: pip install -r requirements.txt
+
+# PDF reading
+pdfplumber>=0.10.0
+pypdf>=4.0.0
+
+# Embeddings — sentence-transformers with all-MiniLM-L6-v2
+# 22 MB model, 384-dim, CPU-friendly, auto-downloads on first use
+sentence-transformers>=2.2.0
+
+# Vector store
+chromadb>=0.4.0
+
+# Numerics (usually pre-installed)
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# Local LLM — choose one (all optional, no pip package needed for Ollama)
+# Ollama:      install from https://ollama.com  →  ollama pull mistral
+# HuggingFace: pip install transformers torch accelerate
+# LM Studio:   install from https://lmstudio.ai  (runs OpenAI-compatible server)
